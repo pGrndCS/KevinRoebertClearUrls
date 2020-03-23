@@ -1,0 +1,19 @@
+{
+    "providers": {
+
+        "globalRules": {
+            "urlPattern": ".*",
+            "completeProvider": false,
+            "rules": [
+                "ref",
+                "ref(_[a-zA-Z]*)"
+            ],
+            "referralMarketing": [],
+            "rawRules": [],
+            "exceptions": [],
+            "redirections": [],
+            "forceRedirection": false
+        },
+
+    }
+}
